@@ -38,57 +38,57 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6288232154376', 'AbiDev', true],
-['6288232154376', 'AbiDev', true],
+['60102810046', 'Aiman', true],
+['60102810046', 'Aiman', true],
 ['6288232154376', 'AbiDev', true] // Jangan Du Hapus Nanti eror 
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '62882016155766'
-global.nomorown = '6288232154376'
-global.nomorown1 = '6288232154376'
-global.nomorown2 = '62882016155766'
+global.nomorbot = '-'
+global.nomorown = '60102810046'
+global.nomorown1 = '60102810046'
+global.nomorown2 = '0'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = '𝘼𝙗𝙞𝘿𝙚𝙫 X 𝙭𝙧𝙗𝙤𝙩'
-global.namebot = '𝙭𝙧𝙗𝙤𝙩 𝗺𝗱'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝙭𝙧𝙗𝙤𝙩 𝗺𝗱'
+global.author = 'whtsapp  X 𝙗𝙤𝙩'
+global.namebot = '𝙗𝙤𝙩 𝗺𝗱'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Aiman'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
-global.wm = '𝙭𝙧𝙗𝙤𝙩 𝗺𝗱 '
+global.wm = '𝙗𝙤𝙩 𝗺𝗱 '
 global.watermark = wm
-global.wm2 = '𝙭𝙧𝙗𝙤𝙩 𝗺𝗱 '
+global.wm2 = '𝙗𝙤𝙩 𝗺𝗱 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝘼𝙗𝙞𝘿𝙚𝙫 𝐗 𝙭𝙧𝙗𝙤𝙩`
-global.stickpack = '𝘼𝙗𝙞𝘿𝙚𝙫 𝐗 𝙭𝙧𝙗𝙤𝙩 𝗺𝗱'
-global.stickauth = `© 𝙭𝙧𝙗𝙤𝙩 𝗺𝗱`
+global.titlebot = `𝐗 𝙗𝙤𝙩`
+global.stickpack = 'whtsapp 𝙗𝙤𝙩 𝗺𝗱'
+global.stickauth = `© 𝙗𝙤𝙩 𝗺𝗱`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= '𝘼𝙗𝙞𝘿𝙚𝙫'
-global.nameown2 = '𝙭𝙧𝙗𝙤𝙩 𝗺𝗱'
+global.nameown1= 'lynxman'
+global.nameown2 = 'whtsapp'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = '𝐆𝐝𝐚 𝐖𝐤𝐰𝐤'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/Abityru24'
-global.sgh = 'https://github.com/AbiDev11' //github
-global.sgc = 'https://chat.whatsapp.com/BKi5RCs2EHaG2g0e2bJ72r' //group whatsapp
+global.sig = 'https://instagram.com/aiman1_23'
+global.sgh = 'https://github.com/ai-man-123' //github
+global.sgc = '-' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/channel/--'
+global.snh = '-'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '088232154376'
+global.pdana = '-'
 global.povo = '-'
-global.pgopay = '088232154376'
+global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = '088232154376'
+global.ppulsa = '-'
 global.ppulsa2 = '-'
 global.psaweria = '-'
 
@@ -274,7 +274,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 //OPTIONS
-global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
+global.optsnsfw = false // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝Thumb┈╴╴╴╴╾╴╳ ⫹⫺
 global.thumb = 'https://telegra.ph/file/b0f2e80e5b218e2e98159.jpg' //Main Thumbnail
@@ -519,9 +519,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = '?????????'
-global.urlnya = "https://www.instagram.com/abityru24"
+global.urlnya = "https://www.instagram.com/aiman1_23"
 global.dtc = '???? ?????'
-global.phn = '0882-3215-4376'
+global.phn = '-'
 
 
 //?? 肓??????帕 ? JNGN DI UBAH ? 帕??????肓 ??
